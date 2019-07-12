@@ -4,7 +4,7 @@
 
 经典开启多线程的基本方式
 
-@author: zpj
+@author: klh
 
 """
 import threading
